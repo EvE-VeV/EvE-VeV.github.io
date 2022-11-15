@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>This is Me, that is also me.</title>
-    <link>https://EvE-VeV.github.io/public/</link>
+    <link>https://EvE-VeV.github.io/</link>
     <description>Recent content on This is Me, that is also me.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://EvE-VeV.github.io/public/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://EvE-VeV.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to my first blog!</title>
-      <link>https://EvE-VeV.github.io/public/post/first/</link>
+      <link>https://EvE-VeV.github.io/post/first/</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://EvE-VeV.github.io/public/post/first/</guid>
+      <guid>https://EvE-VeV.github.io/post/first/</guid>
       <description>Hello,my love This is my fisrt page~~~</description>
     </item>
     
     <item>
       <title>Welcome to my first blog!</title>
-      <link>https://EvE-VeV.github.io/public/post/thoughts/thoughts/</link>
+      <link>https://EvE-VeV.github.io/post/thoughts/thoughts/</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://EvE-VeV.github.io/public/post/thoughts/thoughts/</guid>
+      <guid>https://EvE-VeV.github.io/post/thoughts/thoughts/</guid>
       <description>My thoughts,my brain </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://EvE-VeV.github.io/public/post/academic/fuzzing/</link>
+      <link>https://EvE-VeV.github.io/post/academic/fuzzing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://EvE-VeV.github.io/public/post/academic/fuzzing/</guid>
+      <guid>https://EvE-VeV.github.io/post/academic/fuzzing/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://EvE-VeV.github.io/public/post/arts/readme/</link>
+      <link>https://EvE-VeV.github.io/post/arts/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://EvE-VeV.github.io/public/post/arts/readme/</guid>
+      <guid>https://EvE-VeV.github.io/post/arts/readme/</guid>
       <description>This is all about the music, moive and art related&amp;hellip;.. </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://EvE-VeV.github.io/public/post/literature/all_this_i_did_without_you/</link>
+      <link>https://EvE-VeV.github.io/post/literature/all_this_i_did_without_you/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://EvE-VeV.github.io/public/post/literature/all_this_i_did_without_you/</guid>
+      <guid>https://EvE-VeV.github.io/post/literature/all_this_i_did_without_you/</guid>
       <description>All this I did without you Conservationist and author Gerald Durrell and Lee McGeorge first met in 1977; two years later they were married. By the time Durrell died in 1995 they had travelled the world together on numerous conservation expeditions and co-written two books: A Practical Guide for the Amateur Naturalist, and Durrell in Russia.</description>
     </item>
     
