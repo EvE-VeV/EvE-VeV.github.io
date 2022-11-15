@@ -26,15 +26,6 @@
     </item>
     
     <item>
-      <title>author</title>
-      <link>https://EvE-VeV.github.io/tags/author/</link>
-      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://EvE-VeV.github.io/tags/author/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>books</title>
       <link>https://EvE-VeV.github.io/tags/books/</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
@@ -62,11 +53,29 @@
     </item>
     
     <item>
+      <title>letter</title>
+      <link>https://EvE-VeV.github.io/tags/letter/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://EvE-VeV.github.io/tags/letter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Literature</title>
       <link>https://EvE-VeV.github.io/tags/literature/</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://EvE-VeV.github.io/tags/literature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>love</title>
+      <link>https://EvE-VeV.github.io/tags/love/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://EvE-VeV.github.io/tags/love/</guid>
       <description></description>
     </item>
     
@@ -107,6 +116,15 @@
     </item>
     
     <item>
+      <title>philosophy</title>
+      <link>https://EvE-VeV.github.io/tags/philosophy/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://EvE-VeV.github.io/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Thoughts</title>
       <link>https://EvE-VeV.github.io/tags/thoughts/</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
@@ -121,15 +139,6 @@
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://EvE-VeV.github.io/tags/welcome/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>我的博客标签</title>
-      <link>https://EvE-VeV.github.io/tags/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%A0%87%E7%AD%BE/</link>
-      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://EvE-VeV.github.io/tags/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%A0%87%E7%AD%BE/</guid>
       <description></description>
     </item>
     
