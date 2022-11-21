@@ -2,7 +2,9 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://EvE-VeV.github.io/bg/sitemap.xml</loc>
+    <loc>https://EvE-VeV.github.io/fr/sitemap.xml</loc>
+    
+      <lastmod>2022-11-20T00:00:00+00:00</lastmod>
     
   </sitemap>
   
@@ -10,6 +12,16 @@
     <loc>https://EvE-VeV.github.io/en/sitemap.xml</loc>
     
       <lastmod>2022-11-20T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://EvE-VeV.github.io/es/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://EvE-VeV.github.io/zh/sitemap.xml</loc>
     
   </sitemap>
   
