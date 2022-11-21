@@ -1,9 +1,109 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Mon blogue</title>
+    <title>Categories on Este soy yo, ese también soy yo.😶‍🌫️🎉✌️</title>
     <link>https://EvE-VeV.github.io/es/categories/</link>
-    <description>Recent content in Categories on Mon blogue</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://EvE-VeV.github.io/es/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Categories on Este soy yo, ese también soy yo.😶‍🌫️🎉✌️</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 20 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://EvE-VeV.github.io/es/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Académico</title>
+      <link>https://EvE-VeV.github.io/es/categories/acad%C3%A9mico/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://EvE-VeV.github.io/es/categories/acad%C3%A9mico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artes</title>
+      <link>https://EvE-VeV.github.io/es/categories/artes/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://EvE-VeV.github.io/es/categories/artes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bienvenido</title>
+      <link>https://EvE-VeV.github.io/es/categories/bienvenido/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://EvE-VeV.github.io/es/categories/bienvenido/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>literatura</title>
+      <link>https://EvE-VeV.github.io/es/categories/literatura/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://EvE-VeV.github.io/es/categories/literatura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pensamientos</title>
+      <link>https://EvE-VeV.github.io/es/categories/pensamientos/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://EvE-VeV.github.io/es/categories/pensamientos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>学术</title>
+      <link>https://EvE-VeV.github.io/es/categories/%E5%AD%A6%E6%9C%AF/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://EvE-VeV.github.io/es/categories/%E5%AD%A6%E6%9C%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arts</title>
+      <link>https://EvE-VeV.github.io/es/categories/arts/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://EvE-VeV.github.io/es/categories/arts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>literature</title>
+      <link>https://EvE-VeV.github.io/es/categories/literature/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://EvE-VeV.github.io/es/categories/literature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://EvE-VeV.github.io/es/categories/academic/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://EvE-VeV.github.io/es/categories/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thoughts</title>
+      <link>https://EvE-VeV.github.io/es/categories/thoughts/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://EvE-VeV.github.io/es/categories/thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://EvE-VeV.github.io/es/categories/welcome/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://EvE-VeV.github.io/es/categories/welcome/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

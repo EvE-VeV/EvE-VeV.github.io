@@ -15,11 +15,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://EvE-VeV.github.io/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh"
                 href="https://EvE-VeV.github.io/zh/categories/"
                 />
@@ -37,11 +32,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://EvE-VeV.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh"
                 href="https://EvE-VeV.github.io/zh/tags/"
                 />
@@ -56,11 +46,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://EvE-VeV.github.io/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://EvE-VeV.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
