@@ -1,0 +1,36 @@
+/* your styles go here */
+
+/* 这个规则规定了iframe父元素容器的尺寸，16:9的近似值为56%*/
+.selfadapting-video-bilibili {
+    position: relative;
+    width: 100%;
+    height: 0;
+}
+/* 设定iframe的宽度和高度，让iframe占满整个父元素容器 */
+.selfadapting-video-bilibili iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+}
+@media only screen and (max-width: 728px) {
+    .selfadapting-video-bilibili {
+        padding-bottom: 56%;
+    }
+}
+@media only screen and (min-width: 729px) and (max-width: 767px) {
+    .selfadapting-video-bilibili {
+        padding-bottom: 73%;
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .selfadapting-video-bilibili {
+        padding-bottom: 56%;
+    }
+}
+@media only screen and (min-width: 992px) {
+    .selfadapting-video-bilibili {
+        padding-bottom: 71%;
+    }
+}

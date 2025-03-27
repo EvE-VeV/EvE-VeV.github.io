@@ -2,108 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on This is me, that is also me.😶‍🌫️🎉✌️</title>
-    <link>https://EvE-VeV.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on This is me, that is also me.😶‍🌫️🎉✌️</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://EvE-VeV.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 20 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>movies</title>
-      <link>https://EvE-VeV.github.io/tags/movies/</link>
+      <title>Movies</title>
+      <link>http://localhost:1313/tags/movies/</link>
       <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://EvE-VeV.github.io/tags/movies/</guid>
+      <guid>http://localhost:1313/tags/movies/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>music</title>
-      <link>https://EvE-VeV.github.io/tags/music/</link>
+      <title>Music</title>
+      <link>http://localhost:1313/tags/music/</link>
       <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://EvE-VeV.github.io/tags/music/</guid>
+      <guid>http://localhost:1313/tags/music/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>books</title>
-      <link>https://EvE-VeV.github.io/tags/books/</link>
+      <title>Books</title>
+      <link>http://localhost:1313/tags/books/</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://EvE-VeV.github.io/tags/books/</guid>
+      <guid>http://localhost:1313/tags/books/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Fuzzing</title>
-      <link>https://EvE-VeV.github.io/tags/fuzzing/</link>
+      <link>http://localhost:1313/tags/fuzzing/</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://EvE-VeV.github.io/tags/fuzzing/</guid>
+      <guid>http://localhost:1313/tags/fuzzing/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>galley</title>
-      <link>https://EvE-VeV.github.io/tags/galley/</link>
+      <title>Galley</title>
+      <link>http://localhost:1313/tags/galley/</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://EvE-VeV.github.io/tags/galley/</guid>
+      <guid>http://localhost:1313/tags/galley/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>letter</title>
-      <link>https://EvE-VeV.github.io/tags/letter/</link>
+      <title>Letter</title>
+      <link>http://localhost:1313/tags/letter/</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://EvE-VeV.github.io/tags/letter/</guid>
+      <guid>http://localhost:1313/tags/letter/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>love</title>
-      <link>https://EvE-VeV.github.io/tags/love/</link>
+      <title>Love</title>
+      <link>http://localhost:1313/tags/love/</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://EvE-VeV.github.io/tags/love/</guid>
+      <guid>http://localhost:1313/tags/love/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>museum</title>
-      <link>https://EvE-VeV.github.io/tags/museum/</link>
+      <title>Museum</title>
+      <link>http://localhost:1313/tags/museum/</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://EvE-VeV.github.io/tags/museum/</guid>
+      <guid>http://localhost:1313/tags/museum/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Papers</title>
-      <link>https://EvE-VeV.github.io/tags/papers/</link>
+      <link>http://localhost:1313/tags/papers/</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://EvE-VeV.github.io/tags/papers/</guid>
+      <guid>http://localhost:1313/tags/papers/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>philosophy</title>
-      <link>https://EvE-VeV.github.io/tags/philosophy/</link>
+      <title>Philosophy</title>
+      <link>http://localhost:1313/tags/philosophy/</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://EvE-VeV.github.io/tags/philosophy/</guid>
+      <guid>http://localhost:1313/tags/philosophy/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Welcome</title>
-      <link>https://EvE-VeV.github.io/tags/welcome/</link>
+      <link>http://localhost:1313/tags/welcome/</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://EvE-VeV.github.io/tags/welcome/</guid>
+      <guid>http://localhost:1313/tags/welcome/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
