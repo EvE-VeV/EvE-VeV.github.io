@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philosophy on This is me, that is also me.😶‍🌫️🎉✌️</title>
-    <link>https://EvE-VeV.github.io/tags/philosophy/</link>
+    <link>http://localhost:1313/tags/philosophy/</link>
     <description>Recent content in Philosophy on This is me, that is also me.😶‍🌫️🎉✌️</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://EvE-VeV.github.io/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Brain🧠</title>
-      <link>https://EvE-VeV.github.io/post/thoughts/thoughts/</link>
+      <link>http://localhost:1313/post/thoughts/thoughts/</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://EvE-VeV.github.io/post/thoughts/thoughts/</guid>
+      <guid>http://localhost:1313/post/thoughts/thoughts/</guid>
       <description>My thoughts,my brain</description>
     </item>
   </channel>

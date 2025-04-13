@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Literature on This is me, that is also me.😶‍🌫️🎉✌️</title>
-    <link>https://EvE-VeV.github.io/categories/literature/</link>
+    <link>http://localhost:1313/categories/literature/</link>
     <description>Recent content in Literature on This is me, that is also me.😶‍🌫️🎉✌️</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 20 Nov 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://EvE-VeV.github.io/categories/literature/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/literature/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TV series : Normal people</title>
-      <link>https://EvE-VeV.github.io/post/arts/normal_people/</link>
+      <link>http://localhost:1313/post/arts/normal_people/</link>
       <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://EvE-VeV.github.io/post/arts/normal_people/</guid>
+      <guid>http://localhost:1313/post/arts/normal_people/</guid>
       <description>Many people long for love and have a happy life, but different people have different definitions and requirements for love, and have their own standards, but we don&amp;rsquo;t always seem to be able to control our feelings, but love makes us desperate , makes us infatuated, and sometimes makes us</description>
     </item>
     <item>
       <title>A love letter💌</title>
-      <link>https://EvE-VeV.github.io/post/literature/all_this_i_did_without_you/</link>
+      <link>http://localhost:1313/post/literature/all_this_i_did_without_you/</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://EvE-VeV.github.io/post/literature/all_this_i_did_without_you/</guid>
+      <guid>http://localhost:1313/post/literature/all_this_i_did_without_you/</guid>
       <description>All this I did without you The story behind the letter Conservationist and author Gerald Durrell and Lee McGeorge first met in 1977; two years later they were married.By the time Durrell died in 1995 they had travelled the world together on numerous conservation expeditions and co-written two books: A</description>
     </item>
   </channel>
